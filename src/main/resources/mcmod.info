@@ -1,0 +1,15 @@
+[
+{
+  "modid": "deathtracker",
+  "name": "Death Tracker",
+  "description": "",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CreativeMD"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["dynmap"]
+}
+]
